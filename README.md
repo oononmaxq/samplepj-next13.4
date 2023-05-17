@@ -1,3 +1,29 @@
+## このプロジェクトについて
+
+Next.js 13.4（App Router）に対応したサンプルプロジェクトです。
+
+このプロジェクトは以下のサイト・チュートリアルを参考に作成しました。
+
+- [【公式サイト】Next.js 13 Routing](https://nextjs.org/docs/pages/building-your-application/routing)
+- [【公式ブログ】Next.js 13.4](https://nextjs.org/blog/next-13-4)
+- [Next.js 13 App Router による次世代 Web 開発](https://www.udemy.com/course/nextjs-supabase-app-directory/)
+- [Streaming with Suspense の Streaming を理解する](https://zenn.dev/cybozu_frontend/articles/web-streams-api)
+
+## 理解できること
+
+- Caching Data
+- File Conventions
+- Server Component
+- Client Component
+- Nested Layout
+- Streaming HTML
+- Dyamic Route
+- generateStaticParams
+
+## ホスティングサンプル
+
+- [サンプル](https://nextjs.org/docs/pages/building-your-application/routing)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
