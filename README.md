@@ -22,7 +22,7 @@ Next.js 13.4（App Router）に対応したサンプルプロジェクトです�
 
 ## ホスティングサンプル
 
-- [サンプル](https://nextjs.org/docs/pages/building-your-application/routing)
+- [サンプル](https://samplepj-next13-4.vercel.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
